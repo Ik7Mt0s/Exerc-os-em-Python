@@ -1,3 +1,4 @@
+#Receber do teclado uma mensagem e imprimir quantas letras A, E, I, O, U tem esta mensagem. Considerar minúscula e maiúscula.
 import os, unicodedata
 
 while True:        
